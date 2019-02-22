@@ -1,2 +1,2 @@
 # Calculator
-wrote this when I was freshman, don't have comments in the code yet
+I wrote this in freshman year, haven't had complete comments in the code yet
